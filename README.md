@@ -9,4 +9,3 @@ The Emirates Desktop Application is Developed using .NET Framework, C#, Guna Fra
 ![Screenshot 2023-10-28 222649](https://github.com/Mufli-Codes/Emirates-Desktop-Application/assets/145528271/c5331148-134a-4bde-877f-4055eaf7aa8c)
 ![Screenshot 2023-10-28 223010](https://github.com/Mufli-Codes/Emirates-Desktop-Application/assets/145528271/a9bac0fd-2d74-4bb0-91c5-24bbf35c2d18)
 ![Screenshot 2023-10-28 222741](https://github.com/Mufli-Codes/Emirates-Desktop-Application/assets/145528271/abb5710d-8a36-4780-8cf7-2c9ccd850135)
-![Screenshot 2023-10-28 223401](https://github.com/Mufli-Codes/Emirates-Desktop-Application/assets/145528271/88e48f9a-b23a-4ae9-ad3b-5b6471ce80b4)
